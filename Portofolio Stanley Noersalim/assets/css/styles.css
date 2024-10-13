@@ -595,16 +595,17 @@ body.dark-theme{
 
 .home__social-CV{
   background-color: var(--black-color);
-  width: 300px;
-  height:80px;
+  width: 280px;
+  font-weight: bold;
+  height: 80px;
   border-radius: 10px;
   color: var(--white-color);
-  top: 210px;
+  top: 200px;
   left: revert-layer;
-  right:-418px;
+  right: -400px;
   font-size: 1.5rem;
   padding: 6px;
-  position:absolute;
+  position: absolute;
   display: grid;
   place-items: center;
   transition: background-color .3s;
