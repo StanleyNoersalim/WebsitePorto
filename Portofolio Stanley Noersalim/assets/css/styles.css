@@ -593,16 +593,16 @@ body.dark-theme{
   transition: background-color .3s;
 }
 
-.home__social-CV{
+.home__social-CV {
   background-color: var(--black-color);
-  width: 280px;
+  width: 270px;
   font-weight: bold;
   height: 80px;
   border-radius: 10px;
   color: var(--white-color);
   top: 200px;
   left: revert-layer;
-  right: -400px;
+  right: -390px;
   font-size: 1.5rem;
   padding: 6px;
   position: absolute;
@@ -610,7 +610,6 @@ body.dark-theme{
   place-items: center;
   transition: background-color .3s;
 }
-
 .home__social-CV-link {
   text-decoration: none;
   color: #fff; /* Adjust as necessary */
